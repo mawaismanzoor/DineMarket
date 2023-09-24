@@ -7,7 +7,6 @@ import Pic1 from "/public/Pic1.png";
 export default function Home() {
   return (
     <div>
-      {" "}
       <Hero />
       <ProductList />
     </div>
